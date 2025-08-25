@@ -1,0 +1,12 @@
+adjective = input("Enter a adjective for a discription \n:")
+noun = input("Enter a noun it can be (name, place,thing)\n:")
+adverb = input("Enter a adverb end with ""ing:\n")
+print("")
+print("")
+print("")
+
+print(f"One day, a {adjective} {noun} decided to travel {adverb} to a new place.")
+print(f"On the way, the {noun} met another {adjective} {noun} moving {adverb}.")
+print(f"They became friends and visited a {adjective} {noun} together, exploring {adverb}.")
+print(f"Soon, a third {adjective} {noun} appeared and joined them {adverb}.")
+print(f"In the end, all the {adjective} {noun}s lived {adverb} ever after.")
