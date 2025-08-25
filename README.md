@@ -12,7 +12,4 @@ A fun and simple **Madlib game** built with Python. Players provide random words
 
 ---
 
-## 🖥️ How to Run  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/madlib-game.git
+
